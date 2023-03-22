@@ -1,6 +1,7 @@
-# Hack-A-Bit-2023
+# 💥 Hack-A-Bit-2023 💥
 
-In the category hack-a-bit (HaB) infastructure you will find the following challenges:
+In the Hack-a-Bit (HaB) category infastructure, you will find the following challenges:
+
 <ol>
   <li>Captain</li>
   <li>Seashell</li>
@@ -11,3 +12,11 @@ In the category hack-a-bit (HaB) infastructure you will find the following chall
   <li>Inspector</li>
   <li>Hammer</li>
 </ol>
+
+With each of the challenges, there will be two sections:
+
+<hr>
+
+## - Challenge Completion -
+
+## - Revise Vulnerability -
