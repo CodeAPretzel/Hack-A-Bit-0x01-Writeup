@@ -6,17 +6,17 @@
 
 <br>
 
-In the Hack-a-Bit (HaB) category infastructure, you will find the following challenges:
+In the Hack-a-Bit (HaB) category infastructure, you will find the following challenges with their designated points:
 
 <ol>
-  <li>Captain</li>
-  <li>Seashell</li>
-  <li>Loading</li>
-  <li>Location</li>
-  <li>Connector</li>
-  <li>Boat</li>
-  <li>Inspector</li>
-  <li>Hammer</li>
+  <li>Captain (75 points)</li>
+  <li>Seashell (75 points)</li>
+  <li>Loading (100 points)</li>
+  <li>Location (100 points)</li>
+  <li>Connector (125 points)</li>
+  <li>Boat (125 points)</li>
+  <li>Inspector (150 points)</li>
+  <li>Hammer (150 points)</li>
 </ol>
 
 With each of the challenges, there will be two sections:
