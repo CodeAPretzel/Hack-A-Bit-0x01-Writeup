@@ -1,4 +1,10 @@
-# 💥 Hack-A-Bit-2023 💥
+<div align="center">
+  <h1>
+    💥 Hack-A-Bit-2023 💥
+  </h1>
+</div>
+
+<br>
 
 In the Hack-a-Bit (HaB) category infastructure, you will find the following challenges:
 
