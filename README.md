@@ -19,18 +19,55 @@ In the Hack-a-Bit (HaB) category infastructure, you will find the following chal
   <li>Hammer (150 points)</li>
 </ol>
 
-With each of the challenges, there will be two sections:
+With each challenge we will figure out the problems and how to solve each one:
 
 <hr>
 <br>
 
-## - Challenge Completion 📜 -
+## - Captain -
 
-With "challenge completion," we go through what the challenge is, the challenge requirements, and how to complete the challenge.
 
 <br>
 <br>
 
-## - Revise Vulnerability 📜 -
+## - Seashell -
 
-With "revise vulnerability," we go through the ways to prevent the vulnerability as if it was in the real world. If the challenge is more of how to do it, then the challenge will not have a file for this section.
+
+<br>
+<br>
+
+## - Loading -
+
+
+<br>
+<br>
+
+## - Location -
+
+
+<br>
+<br>
+
+## - Connector -
+
+
+<br>
+<br>
+
+## - Boat -
+
+
+<br>
+<br>
+
+## - Inspector -
+
+
+<br>
+<br>
+
+## - Hammer -
+
+
+<br>
+<br>
