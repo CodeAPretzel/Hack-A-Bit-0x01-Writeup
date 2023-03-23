@@ -24,49 +24,49 @@ With each challenge we will figure out the problems and how to solve each one:
 <hr>
 <br>
 
-## - Captain -
+## - Captain 🌊 -
 
 
 <br>
 <br>
 
-## - Seashell -
+## - Seashell 🐚 -
 
 
 <br>
 <br>
 
-## - Loading -
+## - Loading 🌀 -
 
 
 <br>
 <br>
 
-## - Location -
+## - Location 🌎 -
 
 
 <br>
 <br>
 
-## - Connector -
+## - Connector 🔌 -
 
 
 <br>
 <br>
 
-## - Boat -
+## - Boat ⛵ -
 
 
 <br>
 <br>
 
-## - Inspector -
+## - Inspector 🔍 -
 
 
 <br>
 <br>
 
-## - Hammer -
+## - Hammer 🔨 -
 
 
 <br>
