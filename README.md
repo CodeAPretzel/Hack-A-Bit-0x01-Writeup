@@ -25,6 +25,10 @@ With each challenge we will figure out the problems and how to solve each one:
 <br>
 
 ## - Captain 🌊 -
+Challenge: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
+Container: https://hub.docker.com/r/nathanielsinger/hackabit0x01-infrastructure-container1
+
+Solution:
 
 
 <br>
