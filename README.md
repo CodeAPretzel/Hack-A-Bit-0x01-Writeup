@@ -70,8 +70,7 @@ This brings the output: **flag{you_aren't_the_captain_just_yet}**
 ## - Seashell 🐚 -
 **Challenge**: SSH runs the internet. Connect to utkwrgubhj.qualifier.hackabit.com on port 22 with user hackerman and the provided private key.
 
-**Key**: <a href="https://raw.githubusercontent.com/CodeAPretzel/
-Hack-A-Bit-2023/blob/main/Assets/id_rsa" title="Download" download>Download Key</a>
+**Key**: <a href="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/id_rsa" title="Download" download>Download Key</a>
 
 <br>
 <br>
