@@ -26,9 +26,21 @@ With each challenge we will figure out the problems and how to solve each one:
 
 ## - Captain 🌊 -
 Challenge: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
+
+<br>
+<br>
+
 Container: https://hub.docker.com/r/nathanielsinger/hackabit0x01-infrastructure-container1
 
-Solution:
+<br>
+<br>
+
+Solution: The point of this challenge is for the challenger to find a way to run the container with defining the set variable in the container. For this challenge I will be using a distro of Linux. Before we could use the pull request in URL given, we first need to install the Docker packages necessary using the command line below (if we haven't installed them to begin with):
+<br>
+```
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```
+<br>
 
 
 <br>
