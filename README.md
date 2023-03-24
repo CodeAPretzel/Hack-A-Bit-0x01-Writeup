@@ -68,43 +68,45 @@ This brings the output: **flag{you_aren't_the_captain_just_yet}**
 <br>
 
 ## - Seashell 🐚 -
+**Challenge**: SSH runs the internet. Connect to utkwrgubhj.qualifier.hackabit.com on port 22 with user hackerman and the provided private key.
 
+**Key**: 
 
 <br>
 <br>
 
 ## - Loading 🌀 -
-
+**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
 
 <br>
 <br>
 
 ## - Location 🌎 -
-
+**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
 
 <br>
 <br>
 
 ## - Connector 🔌 -
-
+**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
 
 <br>
 <br>
 
 ## - Boat ⛵ -
-
+**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
 
 <br>
 <br>
 
 ## - Inspector 🔍 -
-
+**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
 
 <br>
 <br>
 
 ## - Hammer 🔨 -
-
+**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
 
 <br>
 <br>
