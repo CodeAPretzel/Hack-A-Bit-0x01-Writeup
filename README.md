@@ -143,6 +143,11 @@ Getting the output: flag{consider_it_loaded_hackerman}
 ## - Location 🌎 -
 **Challenge**: Now with the same image, dive on in and find the iso image. What is the absolute path to the iso image stored within the container? Include the filename in the path for your submission.
 
+|
+<br>
+
+**Solution**: This one is pretty simple, the path of the file is just the location in the container. If we go back to the folder `root` from layer.tar to `flag_image.iso`, it would be something like `/root/flag_image.iso`
+
 <br>
 <br>
 
