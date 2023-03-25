@@ -162,6 +162,8 @@ Getting the output: flag{consider_it_loaded_hackerman}
   <li>user5:hybplwmndy</li>
 </ul>
 
+https://dev.mysql.com/downloads/installer/ (install MySQL for Windows)
+
 <br>
 <br>
 
