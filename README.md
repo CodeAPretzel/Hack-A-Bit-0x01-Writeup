@@ -132,13 +132,17 @@ After this we will just run the first command and get the output: **flag{shesell
 <br>
 
 ## - Boat ⛵ -
-**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
+**Challenge**: Sometimes we need to run a machine on a specific address or virtualize a network, get this running on: 172.22.1.11.
+
+**Container**: https://hub.docker.com/r/nathanielsinger/hackabit0x01-infrastructure-container2
 
 <br>
 <br>
 
 ## - Inspector 🔍 -
-**Challenge**: Cloud infrastructure is migrating to containerized technology in many places, lets get started with containers. Run this docker container with the environment variable FLAG_ENABLER set to give_me_the_flag.
+**Challenge**: Oh look its Bits, something changed though... see if you can track it down.
+
+**File**: <a href="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/id_rsa">Go to File</a>
 
 <br>
 <br>
