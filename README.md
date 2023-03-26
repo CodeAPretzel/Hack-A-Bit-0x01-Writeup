@@ -134,8 +134,10 @@ Finally, just like a .zip file, we have to unpack the .tar file using the follow
 Afterwards, go to the directory you're in and find the folder 89552...ea423 and the file layer.tar. Unpack the .tar `tar -xvf layer.tar`
 <br>
 With that you go from `root > flag_image.iso` then `cat FLAG.TXT`
+
 <br>
-Getting the output: flag{consider_it_loadwed_hackerman}
+
+Getting the output: **flag{consider_it_loadwed_hackerman}**
 
 <br>
 
@@ -173,7 +175,7 @@ After completing the installation process, we have to create a new MySQL Connect
 <br>
 
 <a>
-  <img src="" alt="Img Connector 1" width="50%" height="50%">
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/createConnection.png" alt="Img Connector 1" width="50%" height="50%">
 </a>
 
 <br>
@@ -183,12 +185,16 @@ Then we put the following information in the fields:
 <br>
 
 <a>
-  <img src="" alt="Img Connector 2" width="50%" height="50%">
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/testConnection.png" alt="Img Connector 2" width="50%" height="50%">
 </a>
 
 <br>
 
-Afterwards, we go to...
+With this we should connect to the server, however, it would appear that the server is actually down. Nevertheless, when going to each user and checking their tables, you'll eventually go to `user4` and find the table with the solution's flag.
+
+<br>
+
+Flag: **flag{oh_sql_my_sql}**
 
 <br>
 <br>
