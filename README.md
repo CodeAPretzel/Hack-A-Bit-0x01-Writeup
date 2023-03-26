@@ -138,6 +138,11 @@ With that you go from `root > flag_image.iso` then `cat FLAG.TXT`
 Getting the output: flag{consider_it_loadwed_hackerman}
 
 <br>
+
+<a>
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/picLoading.png" alt="Img Loading" width="50%" height="50%">
+</a>
+
 <br>
 
 ## - Location 🌎 -
@@ -163,6 +168,27 @@ Getting the output: flag{consider_it_loadwed_hackerman}
 </ul>
 
 For this challenge we have to use the MySQL Workbench. With this challenge I installed it on Windows using this link <a href="https://dev.mysql.com/downloads/installer/" target="_blank">here</a>
+After completing the installation process, we have to create a new MySQL Connection like the below images:
+
+<br>
+
+<a>
+  <img src="" alt="Img Connector 1" width="50%" height="50%">
+</a>
+
+<br>
+
+Then we put the following information in the fields:
+
+<br>
+
+<a>
+  <img src="" alt="Img Connector 2" width="50%" height="50%">
+</a>
+
+<br>
+
+Afterwards, we go to...
 
 <br>
 <br>
