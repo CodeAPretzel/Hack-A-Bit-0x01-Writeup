@@ -86,7 +86,7 @@ This brings the output: **flag{you_aren't_the_captain_just_yet}**
 
 <br>
 
-However you'll notice that when running this, the session doesn't accept this because the key has too many accessible permissions. To reduce the permissions needed for the session to just read the key, we will use the command bellow:
+However, the session doesn't accept this because the key has too many accessible permissions. To reduce the permissions needed for the session to just read the key, we will use the command bellow:
 
 <br>
 
@@ -121,7 +121,7 @@ After this we will just run the first command and get the output: **flag{shesell
 
 <br>
 
-Finally, like a .zip file but without compression, we have to unpack the .tar file using the following command:
+Finally, just like a .zip file, we have to unpack the .tar file using the following command:
 
 <br>
 
@@ -131,11 +131,11 @@ Finally, like a .zip file but without compression, we have to unpack the .tar fi
 
 <br>
 
-After that the file will go into the directory you're in. Find the folder 89552...ea423 and the file layer.tar. Unpack the tar `tar -xvf layer.tar`
+Afterwards, go to the directory you're in and find the folder 89552...ea423 and the file layer.tar. Unpack the .tar `tar -xvf layer.tar`
 <br>
-With that you go to from `root > flag_image.iso` then `cat FLAG.TXT`
+With that you go from `root > flag_image.iso` then `cat FLAG.TXT`
 <br>
-Getting the output: flag{consider_it_loaded_hackerman}
+Getting the output: flag{consider_it_loadwed_hackerman}
 
 <br>
 <br>
