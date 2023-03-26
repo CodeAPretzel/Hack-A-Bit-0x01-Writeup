@@ -32,7 +32,7 @@ With each challenge we will figure out the problems and how to solve each one:
 |
 <br>
 
-**Solution**: The point of this challenge is for the challenger to find a way to run the container with defining the set variable in the container. For this challenge you can use any updated distro of Linux. Before we could use the pull request in URL given, we first need to install the Docker packages necessary using the command line below (if we haven't installed them to begin with):
+**Solution**: The point of this challenge is for the challenger to find a way to run the container with defining the set variable in the container. For this challenge you can use any updated distro of Linux. Before we could use the pull request in URL given, we first need to install the Docker packages necessary using the command line below:
 
 <br>
 
@@ -162,7 +162,7 @@ Getting the output: flag{consider_it_loaded_hackerman}
   <li>user5:hybplwmndy</li>
 </ul>
 
-https://dev.mysql.com/downloads/installer/ (install MySQL for Windows)
+For this challenge we have to use the MySQL Workbench. With this challenge I installed it on Windows using this link <a href="https://dev.mysql.com/downloads/installer/" target="_blank">here</a>
 
 <br>
 <br>
