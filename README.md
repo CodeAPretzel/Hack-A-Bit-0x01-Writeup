@@ -169,7 +169,10 @@ Getting the output: **flag{consider_it_loadwed_hackerman}**
   <li>user5:hybplwmndy</li>
 </ul>
 
-For this challenge we have to use the MySQL Workbench. With this challenge I installed it on Windows using this link <a href="https://dev.mysql.com/downloads/installer/" target="_blank">here</a>
+|
+<br>
+
+**Solution**: For this challenge we have to use the MySQL Workbench. With this challenge I installed it on Windows using this link <a href="https://dev.mysql.com/downloads/installer/" target="_blank">here</a>
 After completing the installation process, we have to create a new MySQL Connection like the below images:
 
 <br>
@@ -203,6 +206,21 @@ Flag: **flag{oh_sql_my_sql}**
 **Challenge**: Sometimes we need to run a machine on a specific address or virtualize a network, get this running on: 172.22.1.11.
 
 **Container**: https://hub.docker.com/r/nathanielsinger/hackabit0x01-infrastructure-container2
+
+|
+<br>
+
+**Solution**: This challenge just giving us a Docker container to run on an IP. First things first, grab the pull request from the URL run it and wait, we get an error.
+
+<br>
+
+<a>
+  <img src="" alt="Img Connector 1" width="50%" height="50%">
+</a>
+
+<br>
+
+With some googling, we will find a Docker documentation for just this feature <a href="https://docs.docker.com/config/containers/container-networking/">here.</a>
 
 <br>
 <br>
