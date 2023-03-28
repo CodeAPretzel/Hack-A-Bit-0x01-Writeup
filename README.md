@@ -146,6 +146,7 @@ Getting the output: **flag{consider_it_loaded_hackerman}**
 </a>
 
 <br>
+<br>
 
 ## - Location 🌎 -
 **Challenge**: Now with the same image, dive on in and find the iso image. What is the absolute path to the iso image stored within the container? Include the filename in the path for your submission.
@@ -252,7 +253,45 @@ And you get the following flag: **flag{its_just_an_address_man}**
 
 **File**: <a href="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/bits.zip">Go to File</a>
 
-"You will find in the files that there are logs"
+With this file, we are given the code documentation for the bot "Bits" in the HaB Discord server. At a first glance, it might be difficult to determine what the challenge is asking but looking into the challenge's material, <a href="https://qualifier.hackabit.com/learning/3n60u-inspector">here</a>, it appears that we are supposed to get a git version of Bits.
+<br>
+When looking through the files in Bits, we get to a file with the directory `C:\Users\$USER\Downloads\bits\bits\.git\logs\HEAD`. Inside of this file, we get the following commit hash `a0235bf2cf43159eff20f5b3d568a21ab288c9ff` with the description `flag_stuff`.
+<br>
+First, go to the directory where bits is stored, then use the command below to go to the committed version of `flag_stuff`.
+
+<br>
+
+```
+  git checkout a0235bf2cf43159eff20f5b3d568a21ab288c9ff
+```
+
+<br>
+
+After that we are given a file called "flag". Now we use this command to read the file:
+
+<br>
+
+```
+  cat flag
+```
+
+<br>
+
+Or this command:
+
+<br>
+
+```powershell
+  grep -r "flag"
+```
+
+<br>
+
+<a>
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/boatSuccess.png" alt="Img Connector 2" width="50%" height="50%">
+</a>
+
+Giving us the output: **flag{don't_try_harder...look_harder}**
 
 <br>
 <br>
