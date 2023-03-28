@@ -309,7 +309,7 @@ Giving us the output: **flag{don't_try_harder...look_harder}**
 
 The flag is stored in an environment variable.
 
-With this challenge I actually didn't finish this. I would just do it right here, however, it would appear that the session is currently down. If the session comes back up however, I'll try to complete this one.
+With this challenge I actually didn't finish this. I would just do it right here, however, it would appear that the session is currently down, but what I've learned from this challenge is that it's a `vsftpd Smiley Face Backdoor` vulnerability. Apparently using the :) in the username results in shell listening on TCP port 6200.
 
 <br>
 <br>
