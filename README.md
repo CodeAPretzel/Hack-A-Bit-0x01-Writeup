@@ -215,12 +215,22 @@ Flag: **flag{oh_sql_my_sql}**
 <br>
 
 <a>
-  <img src="" alt="Img Connector 1" width="50%" height="50%">
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/containerError.png" alt="Img Boat" width="75%" height="75%">
 </a>
 
 <br>
 
-With some googling, we will find a Docker documentation for just this feature <a href="https://docs.docker.com/config/containers/container-networking/">here.</a>
+Not to worry however, from this Docker discussion, <a href="https://forums.docker.com/t/docker-error-response-from-daemon-manifest-not-found-when-running-container-following-get-started-tutorial/65107">here</a>, we find out that an error response might be due to the fact that we have to specify the version of the container. In the form, it says that we can go to the container and under the header "tags" get the version we need.
+
+<br>
+
+```
+ docker pull nathanielsinger/hackabit0x01-infrastructure-container2:v1.0.0
+```
+
+<br>
+
+Now that we have the container, we need to figure out on how to set this to an IP. With some googling, we will find a Docker documentation for just this feature <a href="https://docs.docker.com/engine/reference/commandline/network_create/#:~:text=Connect%20containers&text=If%20you%20want%20to%20add,container's%20IP%20address%20or%20name.">here.</a>
 
 <br>
 <br>
