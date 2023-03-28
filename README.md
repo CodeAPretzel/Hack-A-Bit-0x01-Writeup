@@ -231,6 +231,18 @@ Not to worry however, from this Docker discussion, <a href="https://forums.docke
 <br>
 
 Now that we have the container, we need to figure out on how to set this to an IP. With some googling, we will find a Docker documentation for just this feature <a href="https://docs.docker.com/engine/reference/commandline/network_create/#:~:text=Connect%20containers&text=If%20you%20want%20to%20add,container's%20IP%20address%20or%20name.">here.</a>
+Using the link above, we can create our own commands as such in the following image:
+
+<br>
+
+<a>
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/boatSuccess.png" alt="Img Connector 2" width="50%" height="50%">
+</a>
+
+<br>
+
+And you get the following flag: **flag{its_just_an_address_man}**
+
 
 <br>
 <br>
