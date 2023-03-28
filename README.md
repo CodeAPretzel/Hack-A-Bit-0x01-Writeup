@@ -237,7 +237,7 @@ Using the link above, we can create our own commands as such in the following im
 <br>
 
 <a>
-  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/boatSuccess.png" alt="Img Connector 2" width="50%" height="50%">
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/boatSuccess.png" alt="Success" width="50%" height="50%">
 </a>
 
 <br>
@@ -256,7 +256,15 @@ And you get the following flag: **flag{its_just_an_address_man}**
 With this file, we are given the code documentation for the bot "Bits" in the HaB Discord server. At a first glance, it might be difficult to determine what the challenge is asking but looking into the challenge's material, <a href="https://qualifier.hackabit.com/learning/3n60u-inspector">here</a>, it appears that we are supposed to get a git version of Bits.
 <br>
 When looking through the files in Bits, we get to a file with the directory `C:\Users\$USER\Downloads\bits\bits\.git\logs\HEAD`. Inside of this file, we get the following commit hash `a0235bf2cf43159eff20f5b3d568a21ab288c9ff` with the description `flag_stuff`.
+
 <br>
+
+<a>
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/bitsHead.png" alt="Bits Head" width="75%" height="75%">
+</a>
+
+<br>
+
 First, go to the directory where bits is stored, then use the command below to go to the committed version of `flag_stuff`.
 
 <br>
@@ -288,7 +296,7 @@ Or this command:
 <br>
 
 <a>
-  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/boatSuccess.png" alt="Img Connector 2" width="50%" height="50%">
+  <img src="https://github.com/CodeAPretzel/Hack-A-Bit-2023/blob/main/Assets/bitsOutput.png" alt="Bits Output" width="50%" height="50%">
 </a>
 
 Giving us the output: **flag{don't_try_harder...look_harder}**
