@@ -137,7 +137,7 @@ With that you go from `root > flag_image.iso` then `cat FLAG.TXT`
 
 <br>
 
-Getting the output: **flag{consider_it_loadwed_hackerman}**
+Getting the output: **flag{consider_it_loaded_hackerman}**
 
 <br>
 
