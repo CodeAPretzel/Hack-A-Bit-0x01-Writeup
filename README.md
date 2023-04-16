@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    💥 Hack-A-Bit-2023 💥
+    💥 Hack-A-Bit 0x01 💥
   </h1>
 </div>
 
