@@ -173,7 +173,7 @@ Getting the output: **flag{consider_it_loaded_hackerman}**
 |
 <br>
 
-**Solution**: For this challenge we have to use the MySQL Workbench. With this challenge I installed it on Windows using this link <a href="https://dev.mysql.com/downloads/installer/" target="_blank">here</a>
+**Solution**: For this challenge we need to go into the challenge's MySQL database, I used MySQL for this. With this challenge I installed it on Windows using this link <a href="https://dev.mysql.com/downloads/installer/" target="_blank">here</a>
 After completing the installation process, we have to create a new MySQL Connection like the below images:
 
 <br>
