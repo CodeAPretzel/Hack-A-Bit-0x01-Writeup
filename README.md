@@ -131,9 +131,9 @@ Finally, just like a .zip file, we have to unpack the .tar file using the follow
 
 <br>
 
-Afterwards, go to the directory you're in and find the folder 89552...ea423 and the file layer.tar. Unpack the .tar `tar -xvf layer.tar`
+Afterward, go to the directory you're in and find the folder 89552...ea423 and the file layer.tar. Unpack the .tar `tar -xvf layer.tar`
 <br>
-With that you go from `root > flag_image.iso` then `cat FLAG.TXT`
+With that, you go from `root > flag_image.iso` then `cat FLAG.TXT`
 
 <br>
 
